@@ -3,6 +3,12 @@ name = "bevy_scene_hot_reloading"
 version = "0.1.0"
 edition = "2024"
 
+readme = "readme.md"
+categories = ["game-development"]
+keywords = ["bevy"]
+repository = "https://github.com/Noxmore/bevy_scene_hot_reloading"
+license = "MIT OR Apache-2.0"
+
 [dependencies]
 bevy = { version = "0.16", default-features = false, features = ["bevy_scene"] }
 
